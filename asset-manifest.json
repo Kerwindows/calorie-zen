@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calorie-zen/static/css/main.3ffc901a.css",
+    "main.js": "/calorie-zen/static/js/main.4780747b.js",
+    "static/media/yellowtail-regular.woff": "/calorie-zen/static/media/yellowtail-regular.5d667f25975a997c7d91.woff",
+    "static/media/roboto-regular.woff": "/calorie-zen/static/media/roboto-regular.49ae34d4cc6b98c00c69.woff",
+    "index.html": "/calorie-zen/index.html",
+    "main.3ffc901a.css.map": "/calorie-zen/static/css/main.3ffc901a.css.map",
+    "main.4780747b.js.map": "/calorie-zen/static/js/main.4780747b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ffc901a.css",
+    "static/js/main.4780747b.js"
+  ]
+}
