@@ -6,6 +6,7 @@
 ## Lists and Keys
 
 Imagine that we're coding a messenger feature that has a list of chats sorted according to the time of the last message. Each item in this list is an instance of the Chat component. We receive the array with chat data from the API in the following form:
+<code>
 const chats = [{
   id: 10,
   name: 'Gregory',
@@ -28,6 +29,7 @@ ReactDOM.render((
     ))}
   </>
 ), document.querySelector('#root')); 
+</code>
 The Chat component itself can be really simple:
 function Chat(props) {
   return (
