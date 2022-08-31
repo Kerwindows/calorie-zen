@@ -24,9 +24,11 @@ const chats = [{
 }]; 
 </code>
 </pre>
+
+In JSX, we work with lists using the map() method:
+
 <pre>
 <code>
-In JSX, we work with lists using the map() method:
 ReactDOM.render((
   <>
     <h2>Chats</h2>
@@ -41,6 +43,7 @@ ReactDOM.render((
 ##
 
 The Chat component itself can be really simple:
+
 <pre>
 <code>
 function Chat(props) {
