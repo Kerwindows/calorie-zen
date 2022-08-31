@@ -22,6 +22,10 @@ const chats = [{
   name: 'James',
   lastMessageAt: '07:40',
 }]; 
+</code>
+</pre>
+<pre>
+<code>
 In JSX, we work with lists using the map() method:
 ReactDOM.render((
   <>
